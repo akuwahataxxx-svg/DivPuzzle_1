@@ -2,8 +2,6 @@
   background-color: #ff0000;
   width: 400px;
   height: 100px;
-  float: none;
-
 }
 /* .main{
   display: flex;
@@ -26,4 +24,5 @@
   width: 400px;
   height: 100px;
   clear: left;
+
 }
