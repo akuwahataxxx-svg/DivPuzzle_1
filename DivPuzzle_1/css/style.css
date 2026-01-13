@@ -1,0 +1,23 @@
+.red{
+  background-color: #ff0000;
+  width: 400px;
+  height: 100px;
+}
+.main{
+  display: flex;
+}
+.green{
+  background-color: #00ff1e;
+  width: 150px;
+  height: 250px;
+}
+.blue{
+  background-color: #3300ff;
+  width: 250px;
+  height: 250px;
+}
+.kiiro{
+  background-color: #ffe600;
+  width: 400px;
+  height: 100px;
+}
