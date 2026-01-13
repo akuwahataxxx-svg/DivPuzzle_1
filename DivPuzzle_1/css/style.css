@@ -3,15 +3,11 @@
   width: 400px;
   height: 100px;
 }
-/* .main{
-  display: flex;
-} */
 .green{
   background-color: #00ff1e;
   width: 150px;
   height: 250px;
   float: inline-start;
-
 }
 .blue{
   background-color: #3300ff;
@@ -24,5 +20,5 @@
   width: 400px;
   height: 100px;
   clear: left;
-
 }
+
