@@ -7,13 +7,13 @@
   background-color: #00ff1e;
   width: 150px;
   height: 250px;
-  float: inline-start;
+  float: left;
 }
 .blue{
   background-color: #3300ff;
   width: 250px;
   height: 250px;
-  float: inline-start;
+  float: left;
 }
 .kiiro{
   background-color: #ffe600;
@@ -21,4 +21,5 @@
   height: 100px;
   clear: left;
 }
+
 
