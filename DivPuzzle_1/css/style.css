@@ -1,3 +1,8 @@
+.clearfix::after{
+   content: "";
+   display: block;
+   clear: both;
+}
 .red{
   background-color: #ff0000;
   width: 400px;
@@ -21,5 +26,6 @@
   height: 100px;
   clear: left;
 }
+
 
 
